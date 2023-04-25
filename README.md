@@ -1,5 +1,9 @@
 # Bootcamp-front-end-turma-01-mentoria-
-# Crie uma função que receba dois números como parâmetros e retorne a soma desses dois números
+
+ ![descrição da imagem](src/img/entrada.png.png)
+
+-exercicios js básico
+Crie uma função que receba dois números como parâmetros e retorne a soma desses dois números
 
 function soma(a, b) {
   return a + b;
