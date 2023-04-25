@@ -12,6 +12,7 @@ expect(typeof validator.isValid).toBe('function');
 });
 
 
+
 it('deveria retornar true para "4083952015263"', () => {
   expect(validator.isValid('4083952015263')).toBe(true);
 });
